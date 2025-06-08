@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "867626118424",
+    "project_id": "send-data-c87cb",
+    "storage_bucket": "send-data-c87cb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867626118424:android:9175f2470d837c2a30026d",
+        "android_client_info": {
+          "package_name": "com.data.firestore.send.send_data"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcfHV5sI2rJpv2KB9wR_L5hw4DZCqK4pQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
