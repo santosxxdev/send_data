@@ -74,7 +74,10 @@ class _HomeScreenState extends State<HomeScreen> {
           ),
         ],
       ),
-      floatingActionButton: FloatingActionButton(onPressed: (){
+      floatingActionButton: FloatingActionButton(
+        backgroundColor: Colors.green,
+          child: Icon(Icons.add, color: Colors.white,),
+          onPressed: (){
         showAddUserBottomSheet();
       }),
     );
